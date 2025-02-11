@@ -22,7 +22,7 @@ To run this code, you will need the following Python libraries:
 
 ```bash
 pip install pandas numpy torch transformers spacy textstat fxsolve preprocessed-datasets datasets accelerate tabulate sentenceblob ROBERTATokenizeraires PretrainedConfig PreTrainedModel AdamW plotly seaborn
-
+```
 ## Data
 
 The `nixbel/dataset_train_thesis` dataset is used. You can load this dataset directly from Hugging Face.
